@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/mgcrea/node-xlsx.git"
+    "url": "https://github.com/giano/node-xlsx.git"
   },
   "keywords": [
     "excel",
